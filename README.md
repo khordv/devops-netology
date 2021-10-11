@@ -2,7 +2,7 @@
     Update CHANGELOG.md
 2. tag: v0.12.23
 3. 9ea88f22f, 56cd7859e
-4.  b14b74c49 [Website] vmc provider links
+4. b14b74c49 [Website] vmc provider links
     3f235065b Update CHANGELOG.md
     6ae64e247 registry: Fix panic when server is unreachable
     5c619ca1b website: Remove links to the getting started guide's old location
@@ -10,5 +10,7 @@
     d5f9411f5 command: Fix bug when using terraform login on Windows
     4b6d06cc5 Update CHANGELOG.md
     dd01a3507 Update CHANGELOG.md
-5. "
+5. commit 8c928e83589d90a031f811fae52a81be7153e82f 
+6. Если не считать создание , то изменена функция только в commit 8364383c3
+7. Author: Martin Atkins <mart@degeneration.co.uk>
 
